@@ -2,7 +2,7 @@
 import { features } from "../data"
 const Feature = () => {
   return (
-    <div className="w-full min-h-screen pt-16 border-b border-neutral-700">
+    <div className="w-[90%] mx-auto pt-16 border-b border-neutral-700">
     <h2 className=" text-center font-medium bg-neutral-900 text-orange-500 mx-auto rounded-full w-fit  py-1 px-2 ">FEATURE</h2>
     <h2 className="text-3xl sm:text-5xl lg:text-6xl mt-10 lg:mt-20 text-center">Easily build <span className="bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text">your code</span>
         </h2>
